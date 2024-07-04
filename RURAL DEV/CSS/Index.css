@@ -1,0 +1,48 @@
+.nav-link:hover{
+    background-color:antiquewhite;
+    /*color: red !important;*/
+    border-radius:3px;
+   
+
+}
+.dropdown-item{
+   margin-left: 20px;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+    
+}
+.dropdown-item:hover{
+    background-color: antiquewhite;
+}
+
+.nav-link{
+    font-size: 18px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.navbar-brand{
+   margin-left: 10px; 
+
+}
+    
+
+.nav-item{
+    margin-left: 20px;
+    
+}
+.dropdown:hover .dropdown-menu
+ {
+    display: block;
+}
+.card{
+    margin-left: 50px;
+  }
+.carousel-caption{
+    color:green;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.social ul a{
+    list-style: none;
+    text-decoration: none;
+    padding: 12px;
+}
+
